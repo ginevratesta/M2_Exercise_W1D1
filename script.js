@@ -1,5 +1,3 @@
-
-
 //Esercitazione nell'uso delle variabili, di come dichiararle e come stamparle nel terminale - es. per casa.
 
 console.log("Cos'é un algoritmo?");
